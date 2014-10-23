@@ -1120,10 +1120,12 @@ header .navbar .navbar-collapse .navbar-nav li:hover > ul.drop-down {
   }
 
   .list_carousel2.responsive {
-    width: auto;
+    width: 50%;
     height: auto;
     margin-left: 0;
     position: relative;
+    margin-left: auto;
+        margin-right: auto;
   }
 
   .team-detail {
