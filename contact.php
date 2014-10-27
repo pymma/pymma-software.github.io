@@ -3,7 +3,7 @@
 	/* ==========================  Define variables ========================== */
 
 	#Your e-mail address
-	define("__TO__", "test@gmail.com");
+	define("__TO__", "contact@pymma-software.com");
 
 	#Message subject
 	define("__SUBJECT__", "");
@@ -14,7 +14,7 @@
 	#Error message 
 	define('__ERROR_MESSAGE__', "Error, your message hasn't been sent");
 
-	#Messege when one or more fields are empty
+	#Message when one or more fields are empty
 	define('__MESSAGE_EMPTY_FILDS__', "Please fill out  all fields");
 
 	/* ========================  End Define variables ======================== */
