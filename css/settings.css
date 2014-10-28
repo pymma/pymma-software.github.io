@@ -393,6 +393,15 @@ website:   	http://www.themepunch.com
 	border-color:rgb(255,255,255) rgb(34,34,34) rgb(34,34,34) rgb(34,34,34);
 	border-style:solid none none none
 }
+.greyline_long {
+    line-height:1px;
+    min-width:660px;
+    background-color:transparent;
+    text-decoration:none;
+    border-width:2px 0px 0px 0px;
+    border-color:#444444 rgb(34,34,34) rgb(34,34,34) rgb(34,34,34);
+    border-style:solid none none none
+}
 .jomelle_big_transparent {
 	font-size:80px;
 	line-height:80px;
